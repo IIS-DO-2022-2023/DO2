@@ -50,7 +50,7 @@ public class Point extends Shape {
 	
 	@Override
 	public String toString() {
-		return "x:" + x + ", y:" + y + ",color:" + color;
+		return "Point [x=" + x + ", y=" + y + ", color=" + color + "]";
 	}
 	
 	
